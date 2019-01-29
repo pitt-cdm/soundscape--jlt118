@@ -1,3 +1,6 @@
+my files on box: https://pitt.app.box.com/folder/65088304960 
+
+
 # Project 1: Soundscape Narrative
 
 Your task in this unit is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
@@ -40,4 +43,4 @@ At each stage, unless otherwise specified, upload (push) your materials to your 
 2. Because sound files can take up a lot of space, we'll be using [Git Large File Storage](https://git-lfs.github.com/), an add-on service that lets you designate certain file extensions as worth tracking and storing off-site, rather than directly in your repository.
    * I've already set up this folder to track .wav, .mp3, and .ogg files this way, but you'll need to install the LFS service to make it work.
    * Simply go to that URL, download, enter the command in step 1, and you're on your way: I've done step 2 for this repo, and there is no step 3!
-https://pitt.app.box.com/folder/65088304960 
+
